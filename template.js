@@ -46,7 +46,8 @@ exports.template = function (grunt, init, done) {
 				'grunt': '~0.4.1',
 				'grunt-contrib-compass': '~0.1.2',
 				'grunt-contrib-requirejs': '0.4.0',
-				'grunt-regarde': '~0.1.1'
+				'grunt-regarde': '~0.1.1',
+				"matchdep": "~0.1.1"
 			}
 		});
 
