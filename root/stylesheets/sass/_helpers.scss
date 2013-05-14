@@ -1,0 +1,20 @@
+/**
+ *	helpers.scss
+ *	
+ *	Description:
+ *	Site-wide development helpers, mixins, and variables.
+ *	
+ */
+
+@import "neat/neat-helpers";
+
+// $visual-grid: true; // uncomment this line to show an overlay grid.
+
+// $column: 90px;
+// $gutter: 30px;
+$grid-columns: 4;
+$max-width: em(960);
+
+// Define your breakpoints
+//$tablet: new-breakpoint(min-width 640px 8);
+//$desktop: new-breakpoint(min-width 960px 12);
