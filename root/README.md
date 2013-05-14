@@ -1,4 +1,4 @@
-# IHG MultiDouble
+# Project Name
 
 ## Getting setup locally
 
